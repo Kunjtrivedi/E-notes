@@ -1,0 +1,122 @@
+.centered {
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.init{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.toplav{
+	position: absolute;
+	padding-top: 70px;
+	left: 5%;
+	font-weight: bold;
+	color: #4D65BC;
+	font-size: 150%;
+}
+.new{
+	position: absolute;
+	left: 5%;
+	font-weight: bold;
+	color: #000000;
+	font-size: 500%;
+	padding-top: 85px;
+	line-height: 90px;
+}
+.new1{
+	position: absolute;
+	left: 5%;
+	right: 55%;
+	font-weight: bold;
+	color: #000000;
+	font-size: 300%;
+	padding-top: 300px;
+	line-height: 40px;
+}
+.topnew{
+	position: absolute;
+	padding-top: 270px;
+	left: 55%;
+	font-weight: bold;
+	color: #4D65BC;
+	font-size: 100%;
+}
+.topnew1{
+	position: absolute;
+	padding-top: 290px;
+	left: 55%;
+	color: #000000;
+	font-size: 150%;
+}
+.topnew2{
+	position: absolute;
+	padding-top: 530px;
+	left: 55%;
+	font-weight: bold;
+	color: #4D65BC;
+	font-size: 100%;
+}
+.topnew3{
+	position: absolute;
+	padding-top: 550px;
+	left: 55%;
+	color: #000000;
+	font-size: 150%;
+}
+.new2{
+	position: absolute;
+	left: 5%;
+	right: 55%;
+	font-weight: bold;
+	color: #000000;
+	font-size: 300%;
+	padding-top: 800px;
+	line-height: 40px;
+}
+.topnew4{
+	position: absolute;
+	padding-top: 790px;
+	left: 55%;
+	font-weight: bold;
+	color: #4D65BC;
+	font-size: 100%;
+}
+.new3{
+	position: absolute;
+	padding-top: 70px;
+	left: 25%;
+	color: #000000;
+	font-size: 300%;
+	font-weight: bold;
+}
+.dlcoa{
+	position: absolute;
+	padding-top: 70px;
+	left: 15%;
+	color: #000000;
+	font-size: 300%;
+	font-weight: bold;
+}
+.java{
+	position: absolute;
+	padding-top: 70px;
+	left: 35%;
+	color: #000000;
+	font-size: 300%;
+	font-weight: bold;
+}
+.dsgt{
+	position: absolute;
+	padding-top: 70px;
+	left: 10%;
+	color: #000000;
+	font-size: 300%;
+	font-weight: bold;
+}
+.abc{
+	padding-top: 500%;
+}

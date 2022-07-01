@@ -1,0 +1,96 @@
+form {
+  width: 30%;
+  margin: 100px auto;
+  padding: 30px;
+  border: 1px solid #555;
+}
+input {
+  width: 100%;
+  border: 1px solid #f1e1e1;
+  display: block;
+  padding: 5px 10px;
+}
+button {
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+}
+table {
+  width: 60%;
+  border-collapse: collapse;
+  margin: 100px auto;
+}
+th,
+td {
+  height: 50px;
+  vertical-align: center;
+  border: 1px solid black;
+}
+.new3{
+  position: absolute;
+  padding-top: 70px;
+  left: 25%;
+  color: #000000;
+  font-size: 300%;
+  font-weight: bold;
+}
+.new{
+  padding-top: 100px;
+  color: #000000;
+  font-size: 100%;
+  font-weight: bold;
+}
+
+.java{
+  position: absolute;
+  padding-top: 70px;
+  left: 35%;
+  color: #000000;
+  font-size: 300%;
+  font-weight: bold;
+}
+.dsgt{
+  position: absolute;
+  padding-top: 70px;
+  left: 10%;
+  color: #000000;
+  font-size: 300%;
+  font-weight: bold;
+}
+.dlcoa{
+  position: absolute;
+  padding-top: 70px;
+  
+  color: #000000;
+  font-size: 300%;
+  font-weight: bold;
+}
+.contact{
+  padding-left: 25%;
+  padding-right: 25%;
+  padding-top: 25%;
+}
+.card{
+  padding-top: 150px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.new1{
+  position: absolute;
+  padding-top: 30px;
+  left: 25%;
+  color: #000000;
+  font-size: 300%;
+  font-weight: bold;
+}
+.checked {
+  color: orange;
+}
+.new4{
+  position: absolute;
+  padding-top: 20px;
+  left: 25%;
+  color: #000000;
+  font-size: 300%;
+  font-weight: bold;
+}
